@@ -59,5 +59,13 @@ https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 |Hill Street Blues|Mike Post||
 |Smooth Criminal|Luca Stricagnoli|Instrumental cover|
 
+-------------------------------------------------------------------------------------------------------------------
+Classroom Playlist
+-------------------------------------------------------------------------------------------------------------------
+|Track Title|Artist|Notes|
+|-----------|------|-----|
+|Hill Street Blues|Mike Post||
+|Smooth Criminal|Luca Stricagnoli|Instrumental cover|
+
 
 
