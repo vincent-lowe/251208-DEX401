@@ -1,15 +1,22 @@
-DEX401 - Anypoiont Development Fundamentals Classroom Reference - <<YYMMDD>> - << TZ >>
+DEX401 - Anypoiont Development Fundamentals Classroom Reference - 251208 - CST
 
-<<Instructor Name>>
-<<Instructor Email>>
+Vincent Lowe
+
+vlowe@salesforce.com
+
 -------------------------------------------------------------------------------------------------------------------
-Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
-Attendance Code:							<<Attendance Code>>
-Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
-eBook Redemption Key:					<<Mimeo Key>>
+
+Trailhead Academy:				https://trailheadacademy.salesforce.com/my-learning
+
+Attendance Code:				O1A3Q5
+
+Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
+
+eBook Redemption Key:				US1B5A65TD8I
 -------------------------------------------------------------------------------------------------------------------
-Survey Link:									https://www.research.net/r/trailheadacademy
-Survey ID:										<<survey ID>>
+Survey Link:					https://www.research.net/r/trailheadacademy
+
+Survey ID:					TASM-040190
 -------------------------------------------------------------------------------------------------------------------
 Zoom Link: <<Zoom Link>>
 Meeting ID: <<Meeting ID>>
