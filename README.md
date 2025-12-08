@@ -14,6 +14,12 @@ Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
 eBook Redemption Key:				US1B5A65TD8I
 
+Cloudshare VMs:
+
+The login link: https://use.cloudshare.com/Class/3vx26
+
+The passphrase: Scarlet the Surprised Bluebird
+
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:					https://www.research.net/r/trailheadacademy
 
@@ -67,6 +73,8 @@ Classroom Playlist
 |Hill Street Blues|Mike Post||
 |Smooth Criminal|Luca Stricagnoli|Instrumental cover|
 |Have You Every Seen the Rain|Willie Nelson|feat. Paula Nelson|
+|Tupelo Honey|Reina del Cid||
+|Steamroller|James Taylor||
 
 
 
