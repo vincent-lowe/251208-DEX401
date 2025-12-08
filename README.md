@@ -13,10 +13,12 @@ Attendance Code:				O1A3Q5
 Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
 eBook Redemption Key:				US1B5A65TD8I
+
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:					https://www.research.net/r/trailheadacademy
 
 Survey ID:					TASM-040190
+
 -------------------------------------------------------------------------------------------------------------------
 
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
@@ -52,5 +54,10 @@ Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Suppor
 https://anypoint.mulesoft.com
 
 https://anypoint.mulesoft.com/exchange/?view=grid&type=app
+
+|Track|Artist|Notes|
+|Hill Street Blues|Mike Post||
+|Smooth Criminal|Luca Stricagnoli|Instrumental cover|
+
 
 
