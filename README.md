@@ -75,7 +75,7 @@ Classroom Playlist
 |Have You Every Seen the Rain|Willie Nelson|feat. Paula Nelson|
 |Tupelo Honey|Reina del Cid||
 |Steamroller|James Taylor||
-
+|Shake Up Christmas|Train||
 
 
 
