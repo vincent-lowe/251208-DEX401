@@ -73,7 +73,7 @@ Classroom Playlist
 |Hill Street Blues|Mike Post||
 |Smooth Criminal|Luca Stricagnoli|Instrumental cover|
 |Have You Every Seen the Rain|Willie Nelson|feat. Paula Nelson|
-|Tupelo Honey|Reina del Cid||
+|Tupelo Honey|Reina del Cid|now: Elle Cordova|
 |Steamroller|James Taylor||
 |Shake Up Christmas|Train||
 |Just Stopped In (to see what condition my condition was in)|Willie Nelson||
@@ -81,4 +81,6 @@ Classroom Playlist
 |It Ain't Over Yet|Rodney Crowell||
 |Walking Stick|Leon Redbone||
 |City of New Orleans|Arlo Guthrie||
+|Stairway to Heaven|Luca Stricagnoli|One man, one guitar, three necks|
+|Hello, Goodbye|The Beatles||
 
