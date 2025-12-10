@@ -84,5 +84,7 @@ Classroom Playlist
 |Stairway to Heaven|Luca Stricagnoli|One man, one guitar, three necks|
 |Hello, Goodbye|The Beatles
 |California|Rebecca Loebe||
+|Analog Hero|Mark Erelli||
+
 
 
