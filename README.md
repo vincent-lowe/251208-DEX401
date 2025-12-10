@@ -80,4 +80,5 @@ Classroom Playlist
 |This Old Town|Nanci Griffith||
 |It Ain't Over Yet|Rodney Crowell||
 |Walking Stick|Leon Redbone||
+|City of New Orleans|Arlo Guthrie||
 
