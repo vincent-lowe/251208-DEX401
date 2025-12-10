@@ -82,5 +82,7 @@ Classroom Playlist
 |Walking Stick|Leon Redbone||
 |City of New Orleans|Arlo Guthrie||
 |Stairway to Heaven|Luca Stricagnoli|One man, one guitar, three necks|
-|Hello, Goodbye|The Beatles||
+|Hello, Goodbye|The Beatles
+|California|Rebecca Loebe||
+
 
