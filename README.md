@@ -85,6 +85,8 @@ Classroom Playlist
 |Hello, Goodbye|The Beatles
 |California|Rebecca Loebe||
 |Analog Hero|Mark Erelli||
+|Great Day for a Great Day|Michael Franti||
+|My Rifle, My Pony, and Me|Ricky Nelson and Dean Martin|from the soundtrack of Rio Bravo|
 
 
 
