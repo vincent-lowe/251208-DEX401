@@ -89,6 +89,6 @@ Classroom Playlist
 |My Rifle, My Pony, and Me|Ricky Nelson and Dean Martin|from the soundtrack of Rio Bravo|
 |Sixteen Tons|Geoff Castellucci||
 |The Hitter|Mark Erelli|Mark wrote this about his son|
-
+|Here We Go Again|Ray Charles and Norah Jones|Genius Loves Company|
 
 
