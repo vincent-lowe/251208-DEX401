@@ -91,4 +91,4 @@ Classroom Playlist
 |The Hitter|Mark Erelli|Mark wrote this about his son|
 |Here We Go Again|Ray Charles and Norah Jones|Genius Loves Company|
 |The Streetbeater|Quicny Jones|theme from TV show Sanford and Sons|
-
+|Feeling Good|Nina Simone||
