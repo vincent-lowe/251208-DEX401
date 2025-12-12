@@ -61,10 +61,6 @@ https://anypoint.mulesoft.com
 
 https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 
-|Track|Artist|Notes|
-|Hill Street Blues|Mike Post||
-|Smooth Criminal|Luca Stricagnoli|Instrumental cover|
-
 -------------------------------------------------------------------------------------------------------------------
 Classroom Playlist
 -------------------------------------------------------------------------------------------------------------------
@@ -94,4 +90,7 @@ Classroom Playlist
 |Feeling Good|Nina Simone||
 |Man of Constant Sorrow|Geoff Castellucci|all voices on the track are Geoff!|
 |Can't Let Go|Lucinda Williams||
+|Pickup Truck Song|Jerry Jeff Walker|Viva Luckenbach|
+|The Final Countdown|Europe||
+|Crazy He Calls Me|Billie Holiday||
 
