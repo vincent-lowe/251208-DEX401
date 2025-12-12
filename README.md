@@ -35,6 +35,10 @@ https://github.com/advanced-rest-client/arc-electron/releases/tag/v17.0.9
 Postman:
 https://www.postman.com/downloads/
 
+DataWeave resource page: (https://github.com/vincent-lowe/dataweave-learning)[https://github.com/vincent-lowe/dataweave-learning]
+
+
+
 Help:
 https://help.mulesoft.com/
 
